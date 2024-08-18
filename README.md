@@ -1,2 +1,22 @@
-# End-to-End-Data-Project
-End to End Azure Data Engineering Project, build a complete End to End Azure Data Engineering Project. In this project we are going to create an end to end data platform right from Data Ingestion, Data Transformation, Data Loading and Reporting
+<h1 align="center">AventureWorks</h1>
+
+<h2 align="center">Migration des données de SQL Server (On premise) vers le cloud Azure</h2>
+
+<p align="center"><b>L'ensemble du projet a été réalisé sur Azure. Pour des raisons financières, les ressources ont toutes été supprimées.</b></p>
+
+## Architecture
+![photo1](images/architecture.jpg)
+
+## Ressources Azure créées pour ce projet
+![photo4](images/resources.jpg)
+
+## Pipeline
+
+Réalisé avec Azure Data Factory
+![photo2](images/pipeline.jpg)
+
+## Tableau de bord
+![photo3](images/dashboard.jpg)
+
+
+
